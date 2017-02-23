@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Bot_APP.unity
+  isLoaded: 1
+  isActive: 1
